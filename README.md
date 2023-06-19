@@ -1,0 +1,2 @@
+# Desafio de Projeto: Infraestrutura como Código - Script de Provisionamento de um Servidor Web (Apache)
+Esse projeto tem o objetivo de criar um script onde será provisionado um servidor web automaticamente.
